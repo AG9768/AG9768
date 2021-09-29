@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashish Yadav 
+- 👋 Hi, I’m @ashish Yadav
 - 👀 I’m interested in open source contribution
 - 🌱 I’m currently learning Java and python 
 - 💞️ I’m looking to collaborate on open source 
